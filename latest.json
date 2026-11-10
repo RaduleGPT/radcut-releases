@@ -2,10 +2,12 @@
   "version": "0.3.0",
   "url": "https://radulevucetic.com",
   "zips": {
-    "full": "https://drive.google.com/uc?export=download&id=1aBiScM8bxlGj435-g6Gyp3KndS1xV4ME"
+    "full": "https://drive.google.com/uc?export=download&id=1aBiScM8bxlGj435-g6Gyp3KndS1xV4ME",
+    "radsort": "https://drive.google.com/uc?export=download&id=1R_DGArwpbjeKsnuM7otTJSt7BN4GQDDj"
   },
   "sha256": {
-    "full": "4c66596f2bd4b421937656c0ff11bc0d323545cc3e5b2baeb3e62b21f29ececd"
+    "full": "4c66596f2bd4b421937656c0ff11bc0d323545cc3e5b2baeb3e62b21f29ececd",
+    "radsort": "f9b4c49c5248d2e7525dbb6b39d0ee06fa398a41e5f8508e56995d1f6bd26da3"
   },
   "notes": {
     "sr": "Novi izgledi, tvoji sacuvani stilovi, biras efekte pre montaze, pomeras sve misem u Studiju i azuriranje jednim klikom.",
