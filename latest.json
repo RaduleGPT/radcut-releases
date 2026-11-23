@@ -1,16 +1,16 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "url": "https://radulevucetic.com",
   "zips": {
     "full": "https://drive.google.com/uc?export=download&id=1aBiScM8bxlGj435-g6Gyp3KndS1xV4ME",
     "radsort": "https://drive.google.com/uc?export=download&id=1R_DGArwpbjeKsnuM7otTJSt7BN4GQDDj"
   },
   "sha256": {
-    "full": "d63795d075ed598bc94f37867446f4554dda0eae7680d63b01978daa80ad6907",
-    "radsort": "9aece49abb26f0da793c95d926ebbe0c78d72dafb3aef95a5f55e7fb1394db09"
+    "full": "fc81f887fbc0be4adfb207811eb25f4d71230e1726adad8ff6d6e64daac9af50",
+    "radsort": "47935a7e8c554b850ef8c309fda9930636084e2e40074e65ef0fdcfca0f5409e"
   },
   "notes": {
-    "sr": "Novi izgledi, tvoji sacuvani stilovi, biras efekte pre montaze, pomeras sve misem u Studiju i azuriranje jednim klikom.",
-    "en": "New looks, your own saved styles, pick your effects before the edit, drag anything in the Studio, and one-click updates."
+    "sr": "Pocetni ekran, montaza u 4 koraka sa 4 formata i primerima, B-roll banka, provera kadra, tamni prozor i oznacene sumnjive reci.",
+    "en": "A start screen, editing in 4 steps with 4 formats and examples, a B-roll bank, a framing check, a dark window and unsure words marked for you."
   }
 }
